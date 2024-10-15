@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба3 Аудио", "Лаба3 Аудио.csproj", "{8E99A2D7-7D51-46F5-A9F7-B6C64D93A169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба3 Видео", "..\лаба2 Медиа\Лаба3 Видео.csproj", "{A61D8DFB-8156-4444-8771-AEFD02A5BE7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лаба3 Видео", "лаба2 Медиа\Лаба3 Видео.csproj", "{A61D8DFB-8156-4444-8771-AEFD02A5BE7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
